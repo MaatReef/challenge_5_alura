@@ -33,4 +33,4 @@ Conceptos Desarrollados:
 
 - Principios básicos de Java :high_brightness: 
 
-![Home](./img/conversor.png)
+![Home](./src/img/conversor.png)
